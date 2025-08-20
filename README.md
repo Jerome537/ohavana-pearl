@@ -54,6 +54,10 @@ cp .env.example .env.local
 npm run dev
 ```
 
+## 🌐 Déploiement Vercel
+
+Le projet est configuré pour un déploiement automatique sur Vercel.
+
 ## 📄 Licence
 
 Propriétaire - Ohavana Pearl © 2024
